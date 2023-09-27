@@ -1,0 +1,45 @@
+_repo: Karamazovin-veljekset-II-b-Romaani_71690
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Trast, V. K.
+    alias: Trast, Viktor Kustaa
+    birthdate: 1878
+    deathdate: 1953
+    gutenberg_agent_id: '43556'
+    url: http://www.gutenberg.org/2009/agents/43556
+    wikipedia: https://fi.wikipedia.org/wiki/V._K._Trast
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fédor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    - Dostoievski, Fiodor
+    - Dostoievski, Fedor Mikhailovitch
+    - Dostoyevsky, F. M.
+    - Dostojewski, Fjodor Michailowitsch
+    - Dostoyevsky, Fyodor Mikhailovich
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: ''
+gutenberg_issued: '2023-09-20'
+identifiers:
+  gutenberg: '71690'
+language: fi
+pgterms:marc905: 20230813073735dostoyevsk
+pgterms:marc906: '1969'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1969.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Karamazovin veljekset II : $b Romaani'
+url: http://www.gutenberg.org/ebooks/71690
