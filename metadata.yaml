@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '43556'
     url: http://www.gutenberg.org/2009/agents/43556
     wikipedia: https://fi.wikipedia.org/wiki/V._K._Trast
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dostoyevsky, Fyodor
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/314
     wikipedia: https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71690#Karamazovin-veljekset-II-b-Romaani
 gutenberg_issued: '2023-09-20'
 identifiers:
   gutenberg: '71690'
